@@ -12,11 +12,16 @@ void setup() {
 void loop() {
   int val;
   val = analogRead(0); //connect sensor to Analog 0
-  Serial.println(val); //print the value to serial port
   delay(1000);
-  if (val <= 300)
+  if (val <= 300){
      digitalWrite(LED_BUILTIN, HIGH);
-  else
+     Serial.print("Moisture Level: ");
+     Serial.print(val); //print the value to serial port;
+     Serial.println(" LED On");
+  }
+  else{
      digitalWrite(LED_BUILTIN, LOW);
-    
-}
+     Serial.print("Moisture Level: ");
+     Serial.print(val); //print the value to serial port;
+     Serial.println(" LED Off");
+}}
