@@ -1,59 +1,68 @@
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 186 LED On
-Moisture Level: 177 LED On
-Moisture Level: 164 LED On
-Moisture Level: 151 LED On
-Moisture Level: 139 LED On
-Moisture Level: 130 LED On
-Moisture Level: 113 LED On
-Moisture Level: 20 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 85 LED On
-Moisture Level: 162 LED On
-Moisture Level: 149 LED On
-Moisture Level: 121 LED On
-Moisture Level: 137 LED On
-Moisture Level: 132 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 42 LED On
-Moisture Level: 489 LED Off
-Moisture Level: 496 LED Off
-Moisture Level: 489 LED Off
-Moisture Level: 510 LED Off
-Moisture Level: 132 LED On
-Moisture Level: 0 LED On
-Moisture Level: 0 LED On
-Moisture Level: 267 LED On
-Moisture Level: 310 LED Off
-Moisture Level: 425 LED Off
-Moisture Level: 454 LED Off
-Moisture Level: 462 LED Off
-Moisture Level: 0 LED On
+14:46:31.807 -> Moisture Level: 0 LED On
+14:46:32.807 -> Moisture Level: 0 LED On
+14:46:33.791 -> Moisture Level: 0 LED On
+14:46:34.774 -> Moisture Level: 0 LED On
+14:46:35.806 -> Moisture Level: 0 LED On
+14:46:36.790 -> Moisture Level: 0 LED On
+14:46:37.790 -> Moisture Level: 0 LED On
+14:46:38.774 -> Moisture Level: 0 LED On
+14:46:39.805 -> Moisture Level: 0 LED On
+14:46:40.789 -> Moisture Level: 0 LED On
+14:46:41.820 -> Moisture Level: 0 LED On
+14:46:42.804 -> Moisture Level: 0 LED On
+14:46:43.788 -> Moisture Level: 0 LED On
+14:46:44.772 -> Moisture Level: 208 LED On
+14:46:45.804 -> Moisture Level: 206 LED On
+14:46:46.787 -> Moisture Level: 354 LED Off
+14:46:47.772 -> Moisture Level: 445 LED Off
+14:46:48.802 -> Moisture Level: 489 LED Off
+14:46:49.802 -> Moisture Level: 516 LED Off
+14:46:50.787 -> Moisture Level: 524 LED Off
+14:46:51.818 -> Moisture Level: 541 LED Off
+14:46:52.802 -> Moisture Level: 564 LED Off
+14:46:53.786 -> Moisture Level: 568 LED Off
+14:46:54.786 -> Moisture Level: 528 LED Off
+14:46:55.785 -> Moisture Level: 480 LED Off
+14:46:56.817 -> Moisture Level: 456 LED Off
+14:46:57.816 -> Moisture Level: 377 LED Off
+14:46:58.801 -> Moisture Level: 0 LED On
+14:46:59.785 -> Moisture Level: 0 LED On
+14:47:00.816 -> Moisture Level: 0 LED On
+14:47:01.784 -> Moisture Level: 0 LED On
+14:47:02.783 -> Moisture Level: 0 LED On
+14:47:03.815 -> Moisture Level: 0 LED On
+14:47:04.799 -> Moisture Level: 0 LED On
+14:47:05.783 -> Moisture Level: 0 LED On
+14:47:06.814 -> Moisture Level: 0 LED On
+14:47:07.798 -> Moisture Level: 194 LED On
+14:47:08.782 -> Moisture Level: 119 LED On
+14:47:09.814 -> Moisture Level: 204 LED On
+14:47:10.797 -> Moisture Level: 345 LED Off
+14:47:11.782 -> Moisture Level: 486 LED Off
+14:47:12.813 -> Moisture Level: 518 LED Off
+14:47:13.797 -> Moisture Level: 517 LED Off
+14:47:14.797 -> Moisture Level: 404 LED Off
+14:47:15.781 -> Moisture Level: 361 LED Off
+14:47:16.812 -> Moisture Level: 0 LED On
+14:47:17.796 -> Moisture Level: 0 LED On
+14:47:18.796 -> Moisture Level: 0 LED On
+14:47:19.780 -> Moisture Level: 0 LED On
+14:47:20.811 -> Moisture Level: 174 LED On
+14:47:21.795 -> Moisture Level: 212 LED On
+14:47:22.779 -> Moisture Level: 345 LED Off
+14:47:23.779 -> Moisture Level: 466 LED Off
+14:47:24.810 -> Moisture Level: 506 LED Off
+14:47:25.794 -> Moisture Level: 532 LED Off
+14:47:26.778 -> Moisture Level: 528 LED Off
+14:47:27.809 -> Moisture Level: 425 LED Off
+14:47:28.793 -> Moisture Level: 186 LED On
+14:47:29.777 -> Moisture Level: 0 LED On
+14:47:30.809 -> Moisture Level: 256 LED On
+14:47:31.792 -> Moisture Level: 0 LED On
+14:47:32.777 -> Moisture Level: 0 LED On
+14:47:33.808 -> Moisture Level: 0 LED On
+14:47:34.792 -> Moisture Level: 0 LED On
+14:47:35.776 -> Moisture Level: 0 LED On
+14:47:36.807 -> Moisture Level: 0 LED On
+14:47:37.791 -> Moisture Level: 0 LED On
+14:47:38.791 -> Moisture Level: 0 LED On
